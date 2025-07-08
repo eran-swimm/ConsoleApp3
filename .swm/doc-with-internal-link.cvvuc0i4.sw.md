@@ -3,7 +3,7 @@ title: doc with internal link
 ---
 # heading 1
 
-[link to heading 2](https://app.swimm.io/workspaces/AEgK5PTnw6VJEcYqBphC/repos/Z2l0aHViJTNBJTNBQ29uc29sZUFwcDMlM0ElM0FlcmFuLXN3aW1t/branch/main/docs/cvvuc0i4/edit#heading-2)
+[link to heading 2](https://app.swimm.io/workspaces/AEgK5PTnw6VJEcYqBphC/repos/Z2l0aHViJTNBJTNBQ29uc29sZUFwcDMlM0ElM0FlcmFuLXN3aW1t/branch/main/docs/cvvuc0i4#heading-2)
 
 text
 
